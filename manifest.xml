@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<de:metadata version="1.1" state="closed" xmlns:de="http://ns.adobe.com/digitaleditions" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:deperm="http://ns.adobe.com/digitaleditions/perm">
+  <dc:title>Adobe Digital Editons bookshelf metadata</dc:title>
+  <de:appSettings>
+    <de:showDeleteConfirmation>true</de:showDeleteConfirmation>
+    <de:showReturnConfirmation>true</de:showReturnConfirmation>
+    <de:appView>book</de:appView>
+    <de:libraryView>tileList</de:libraryView>
+    <de:enableLogging>false</de:enableLogging>
+  </de:appSettings>
+  <de:bookshelfSet/>
+  <de:contentSet>
+    <de:contentRecord>
+      <dc:title>Ny Trondro</dc:title>
+      <dc:creator>Ny Ntaolo</dc:creator>
+      <dc:identifier>e5ec7d2f-7634-4e0c-a22c-6252499315b5</dc:identifier>
+      <de:isLoan>false</de:isLoan>
+      <dc:format xsi:type="dcterms:MIME">application/epub+zip</dc:format>
+      <de:recordState>5</de:recordState>
+      <de:localPath></de:localPath>
+      <de:addDate>2013-08-27T08:01:56-00:00</de:addDate>
+      <de:downloadState>1</de:downloadState>
+      <dc:extent xsi:type="de:pageCount">17</dc:extent>
+      <de:maxFontSize>3</de:maxFontSize>
+      <de:lastViewState>
+        <de:position>OEBPS/Text/Couverture.xhtml#point(/1/4/4/1)</de:position>
+        <de:fontSize>2</de:fontSize>
+        <de:readDate>2013-08-29T09:08:43-00:00</de:readDate>
+      </de:lastViewState>
+    </de:contentRecord>
+  </de:contentSet>
+</de:metadata>
